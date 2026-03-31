@@ -73,8 +73,6 @@ body {
 .boxy {
     display: flex;
     margin-top: 20px;
-    position: center;
-
 }
 
 .boxL {
@@ -91,6 +89,7 @@ body {
     height: 100px;
     background-color: red;
     text-align: center;
+    
     text-transform: uppercase;
 }
 
